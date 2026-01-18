@@ -2,7 +2,7 @@
 
   <h1 style="margin-bottom: 0;">Mohibur Rahman <span style="color: #666;">(MR)</span></h1>
   <p style="margin-top: 6px; color: #555;">
-    Builder • Developer • Indie Maker • Gym-first Discipline
+    Builder • Developer • Indie Maker
   </p>
 
   <p>
@@ -18,12 +18,7 @@
 
 <p>
 I build products on the internet with consistency and intent.
-I like shipping fast, learning in public, and improving daily — in code and in life.
-</p>
-
-<p>
-Currently focused on building and growing <strong>booksofme.com</strong>, while sharpening my skills as a full-stack developer.
-Gym is non-negotiable.
+I like shipping fast, learning in public, and improving daily.
 </p>
 
 <hr/>
