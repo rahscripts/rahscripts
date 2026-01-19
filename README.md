@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="margin-bottom: 0;">Mohibur Rahman <span style="color: #666;">(MR)</span></h1>
+  <h1 style="margin-bottom: 0;">M Rahman <span style="color: #666;">(MR)</span></h1>
   <p style="margin-top: 6px; color: #555;">
     Builder • Developer • Indie Maker
   </p>
