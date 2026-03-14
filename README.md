@@ -7,7 +7,8 @@
 
   <p>
     <a href="https://booksofme.com" target="_blank">booksofme.com</a> ·
-    <a href="https://www.rahscripts.online" target="_blank">portfolio</a>
+    <a href="https://www.rahscripts.online" target="_blank">portfolio</a> ·
+     <a href="https://elevatepr.fit/" target="_blank"> elevatePR </a> 
   </p>
 
 </div>
@@ -23,37 +24,19 @@ I like shipping fast, learning in public, and improving daily.
 
 <hr/>
 
-<h3>Featured Projects</h3>
+<h3>Featured Apps and Projects</h3>
 
 <h4>
-  <a href="https://booksofme.com" target="_blank">📚 booksofme</a>
+  <a href="https://booksofme.com" target="_blank">📚 booksofme</a> : <p>create your books profile.</p>
 </h4>
-
-<ul>
-  <li>Personal reading showcase & tracking platform</li>
-  <li>Built with performance, simplicity, and clean UX in mind</li>
-  <li>Real users, real feedback, continuous iteration</li>
-</ul>
 
 <h4>
-  <a href="https://gym-calculator-theta.vercel.app/" target="_blank">🏋️ Calorie Calculator</a>
+  <a href="https://elevatepr.fit/" target="_blank">🏋️ elevatePR </a> : <p>break your PR - with addictive charts.</p>
 </h4>
-
-<ul>
-  <li>Gym-focused calculator for workouts, PR tracking, and progression</li>
-  <li>Designed for lifters who value clarity over clutter</li>
-  <li>Built as a fast, no-distraction utility</li>
-</ul>
 
 <h4>
-  <a href="https://todo-tracker-ten.vercel.app/" target="_blank">✅ To-do and Notes</a>
+  <a href="https://todo-tracker-ten.vercel.app/" target="_blank">✅ To-do and Notes</a> : <p>a simple todo i created to learn react.</p>
 </h4>
-
-<ul>
-  <li>Minimal to-do & notes built for daily execution</li>
-  <li>Emphasis on consistency, not productivity noise</li>
-  <li>Helps turn intent into action</li>
-</ul>
 
 <hr/>
 
