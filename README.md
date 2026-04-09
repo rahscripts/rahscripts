@@ -1,60 +1,35 @@
 <div align="center">
-
-  <h1 style="margin-bottom: 0;">M Rahman <span style="color: #666;">(MR)</span></h1>
-  <p style="margin-top: 6px; color: #555;">
-    Builder • Developer • Indie Maker
-  </p>
-
-  <p>
-    <a href="https://booksofme.com" target="_blank">booksofme.com</a> ·
-    <a href="https://www.rahscripts.online" target="_blank">portfolio</a> ·
-     <a href="https://elevatepr.fit/" target="_blank"> elevatePR </a> 
-  </p>
-
+  <h1>👋 Hey, I'm M Rahman <span style="color: gray;">(MR)</span></h1>
 </div>
 
-<hr/>
+<br/>
 
-<h3>About</h3>
+### 🚀 What I'm Building
 
-<p>
-I build products on the internet with consistency and intent.
-I like shipping fast, learning in public, and improving daily.
-</p>
+| Project | Description |
+| :--- | :--- |
+| 📚 [**booksofme**](https://booksofme.com) | Your digital bookshelf. Create and share your reading profile. |
+| 🏋️ [**elevatePR**](https://elevatepr.fit/) | Crush your gym goals. Track personal records with addictive charts. |
+| ✅ [**To-do & Notes**](https://todo-tracker-ten.vercel.app/) | A sleek task tracker (and where my React journey began!). |
+| 🎄 [**portfolio**](https://xrahman.com/) | minimal portfolio. |
 
-<hr/>
+<br/>
 
-<h3>Featured Apps and Projects</h3>
+### 💻 My Arsenal
 
-<h4>
-  <a href="https://booksofme.com" target="_blank">📚 booksofme</a> : <p>create your books profile.</p>
-</h4>
+**Core:** `JavaScript` `TypeScript` `Python` <br/>
+**Frontend:** `React` `Next.js` `TailwindCSS` `shadcn/ui` <br/>
+**Backend & Auth:** `Node.js` `MongoDB` `REST APIs` `JWT` `OAuth` <br/>
+**Deploy & Tools:** `Git` `Vercel` 
 
-<h4>
-  <a href="https://elevatepr.fit/" target="_blank">🏋️ elevatePR </a> : <p>break your PR - with addictive charts.</p>
-</h4>
-
-<h4>
-  <a href="https://todo-tracker-ten.vercel.app/" target="_blank">✅ To-do and Notes</a> : <p>a simple todo i created to learn react.</p>
-</h4>
-
-<hr/>
-
-<p>
-  <strong>Skills</strong><br/><br/>
-  JS · TS · Python · React · Next.js · Node · APIs · JWT · OAuth · MongoDB · Tailwind · shadcn · Git · Vercel
-</p>
-
-
-<hr/>
+<br/>
 
 <div align="center">
-
-  <p style="color: #666;">
-    Building quietly. Improving daily.
+  <p style="color: #888; font-style: italic;">
+    "Building quietly. Improving daily."
   </p>
-
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=rahscripts&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
 </div>
-
-
-<img src="https://komarev.com/ghpvc/?username=rahscripts&style=flat&color=green" />
